@@ -1,0 +1,9 @@
+.item {
+    color: tomato;
+}
+
+.done {
+    color: #c4c4c4;
+    text-decoration: line-through;
+}
+
